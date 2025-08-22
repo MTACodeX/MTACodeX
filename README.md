@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# Connection
+<p align="center">
+	<a href="https://instagram.com/rmntaa_/" target="BLANK"><img src="https://github.com/MTACodeX/MTACodeX/blob/main/images/icon-ig.png" alt="Instagram"/></a><br>INSTAGRAM
+</p>

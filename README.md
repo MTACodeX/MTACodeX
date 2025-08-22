@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 # Connection
 <p align="center">
-	<a href="https://instagram.com/rmntaa_/" target="BLANK"><img src="https://github.com/MTACodeX/MTACodeX/blob/main/images/icon-ig.png" alt="Instagram"/></a><br>INSTAGRAM
+	<a href="https://instagram.com/rmntaa_/" target="BLANK"><img src="https://github.com/MTACodeX/MTACodeX/blob/main/images/icon-ig.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/@MantaChannel" target="BLANK"><img src="https://github.com/MTACodeX/MTACodeX/blob/main/images/icon-yt.png" alt="YouTube"/></a>
 </p>

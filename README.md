@@ -1,7 +1,6 @@
 # Hi there 👋, <br> I'm Abdullah Rahmanta
 
-(https://raw.githubusercontent.com/MTACodeX/MTACodeX/refs/heads/main/images/MTACodeX.png)
-
+[I'm Abdullah Rahmanta] (https://raw.githubusercontent.com/MTACodeX/MTACodeX/refs/heads/main/images/MTACodeX.png)
 
 **MTACodeX/MTACodeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
